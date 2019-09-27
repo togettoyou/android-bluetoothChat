@@ -10,6 +10,6 @@
 | ![首页-未开启](https://github.com/joudev/android-bluetoothChat/blob/master/screenshots/1.png) | ![设置-未开启](https://github.com/joudev/android-bluetoothChat/blob/master/screenshots/0.png) | ![首页-已开启](https://github.com/joudev/android-bluetoothChat/blob/master/screenshots/2.png) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                         首页-未开启                          |                         设置-未开启                          |                         首页-已开启                          |
-| ![设置-已开启](https://github.com/joudev/android-bluetoothChat/blob/master/screenshots/3.png) | ![连接](https://github.com/joudev/android-bluetoothChat/master/screenshots/4.png) | ![聊天](https://github.com/joudev/android-bluetoothChat/blob/master/5.png) |
+| ![设置-已开启](https://github.com/joudev/android-bluetoothChat/blob/master/screenshots/3.png) | ![连接](https://github.com/joudev/android-bluetoothChat/blob/master/screenshots/4.png) | ![聊天](https://github.com/joudev/android-bluetoothChat/blob/master/screenshots/5.png) |
 |                         设置-已开启                          |                             图库                             |                             聊天                             |
 
