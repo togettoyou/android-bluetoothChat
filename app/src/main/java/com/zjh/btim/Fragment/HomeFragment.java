@@ -284,6 +284,7 @@ public class HomeFragment extends Fragment implements SwipeRefreshLayout.OnRefre
         super.onDestroy();
         unregisterBluetoothReceiver();
         bluetoothUtil.close();
-        mBluetoothChatService.stop();
+        if (mBluetoothChatService != null)
+            mBluetoothChatService.stop();
     }
 }
