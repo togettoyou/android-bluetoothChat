@@ -2,6 +2,8 @@
 
 ## APK下载
 - [app-release.apk](https://github.com/togettoyou/android-bluetoothChat/raw/master/apk/app-release.apk)
+- 蓝奏云下载 https://wws.lanzous.com/izBN2mo7ttg 密码:58bw
+
 ## 浏览器扫码下载
 ![app-release.apk](https://github.com/togettoyou/android-bluetoothChat/blob/master/screenshots/qrcode.png)
 
